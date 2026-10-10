@@ -22,13 +22,13 @@ Welcome to **Project Omega**, an elite, production-grade repository hosting stat
 
 The core philosophy governing this architecture revolves around the deliberate orchestration of **absolute psychological urgency**, high-intensity visual anxiety, and hyper-realistic hardware failure simulations. When executed, these scripts do not merely display text; they subvert the operator's mental equilibrium by hijacking standard terminal conventions, mimicking catastrophic operating system failures, and generating simulated data-breach vectors that bypass rational thought. 
 
-Crucially, Project Omega strictly enforces a **100% Data Safety (Zero-Damage Architecture)** mandate. Despite displaying terrifying countdowns, wiping high-value application directories, and initializing fake kernel panics, every single action executed by Variant A and Variant B is completely ephemeral, sandboxed, and non-destructive. No actual registry keys are permanently corrupted, no user data leaves the local machine, and no actual game launchers or user files are ever deleted. It is an exercise in pure psychological theater—crafted with the surgical precision of an enterprise-grade security audit tool, yet executed for maximum comedic and dramatic effect.
+Crucially, Project Omega strictly enforces a **100% Data Safety (Zero-Damage Architecture)** mandate. Despite displaying terrifying countdowns, wiping high-value application directories, and initializing fake kernel panics, every single action executed by Variant A, Variant B, and Variant C is completely ephemeral, sandboxed, and non-destructive. No actual registry keys are permanently corrupted, no user data leaves the local machine, and no actual game launchers or user files are ever deleted. It is an exercise in pure psychological theater—crafted with the surgical precision of an enterprise-grade security audit tool, yet executed for maximum comedic and dramatic effect.
 
 ---
 
 ## 2. RECONCILED SYSTEM CORE ARCHITECTURES
 
-Project Omega features two independent, highly sophisticated operational matrices tailored for distinct psychological targets. Below is the granular architectural breakdown of both Variant A and Variant B.
+Project Omega features sophisticated operational matrices tailored for distinct psychological targets. Below is the granular architectural breakdown of Variant A, Variant B (Models B1 and B2), and Variant C.
 
 ### Variant A: The Elite Matchmaking Matrix / Marriage Proposal Prank
 Variant A is engineered to weaponize high-stakes social engineering under the guise of an automated enterprise matching protocol. Designed for maximum heart rate elevation, it transitions swiftly from a benign administrative system check into an inescapable matrimonial ultimatum.
@@ -49,22 +49,27 @@ Variant A is engineered to weaponize high-stakes social engineering under the gu
 
 </details>
 
-### Variant B: The AI Core Relationship Integrity Protocol
-Variant B represents the pinnacle of simulated cyber-forensic panic. It masquerades as an autonomous artificial intelligence core auditing system integrity, quickly pivoting into a horrifying multi-platform data leak and infrastructure wipe simulation.
+### Variant B: The AI Core Relationship Integrity & Infrastructure Protocol
+Variant B represents the pinnacle of simulated cyber-forensic panic and infrastructure disruption, split cleanly into two distinct operational models:
 
-*   **Multi-Platform Social Media Decryption Engine:** Dynamically renders real-time, highly convincing decryption streams across simulated enterprise channels, including WhatsApp Business Vault, Facebook Messenger Archive, Instagram Threads Secure, Snapchat Ephemeral Vault, and Telegram Desktop Secret Chats.
-*   **Game Engine Launcher Wiping Simulator:** Targets high-value user assets by generating live, terrifying terminal outputs simulating the wholesale deletion of heavy gaming directories and creative suites, including Steam, Epic Games Launcher, Riot Client, Adobe Photoshop CC, and Google Chrome user profiles.
+*   **Model B1 (Ephemeral Chat Leak):** Masquerades as a forensic multi-platform social media decryption module (WhatsApp, Telegram, etc.) focusing on privacy panic. Dynamically renders real-time, highly convincing decryption streams across simulated enterprise channels, including WhatsApp Business Vault, Facebook Messenger Archive, Instagram Threads Secure, Snapchat Ephemeral Vault, and Telegram Desktop Secret Chats.
+*   **Model B2 (Infrastructure Wipe):** Masquerades as a destructive file-system purging core targeting high-value gaming libraries (Steam, Epic) and workspace suites (Adobe, Chrome). Targets high-value user assets by generating live, terrifying terminal outputs simulating the wholesale deletion of heavy gaming directories and creative suites, including Steam, Epic Games Launcher, Riot Client, Adobe Photoshop CC, and Google Chrome user profiles.
 *   **Windows NTOSKRNL.EXE Infrastructure Collapse Sequence:** Culminates in a masterclass simulation of a critical kernel panic, mimicking low-level memory address corruption, registry hive fragmentation, and sudden operating system shutdown.
 
-<details>
-<summary><b>Click to Expand: Variant B Simulated Breach Directory Matrix</b></summary>
+### Variant C: The Academic Compliance Engine
+Variant C is introduced as a highly formalized, institution-grade psychological framework tailored for educators and teachers. It utilizes respectful, rigorous academic compliance queries and simulates a strict institutional audit lockdown upon non-compliance, all while strictly adhering to the Zero-Damage Architecture mandate.
 
-| Target Application | Simulated Path Vector | Psychological Impact Weight | Recovery Reality |
+<details>
+<summary><b>Click to Expand: Variant Technical Flow & Directory Matrix</b></summary>
+
+| Target Application / Model | Simulated Path Vector / Protocol | Psychological Impact Weight | Recovery Reality |
 | :--- | :--- | :--- | :--- |
-| **Steam Client** | `C:\Program Files (x86)\Steam\steamapps\` | Catastrophic (Loss of Game Library) | 100% Mock String Rendering |
-| **Epic Games** | `C:\Program Files\Epic Games\Launcher\` | Severe (Unreal Engine Assets) | 100% Mock String Rendering |
-| **Riot Client** | `C:\Riot Games\Metadata\` | Critical (Ranked Competitive Status) | 100% Mock String Rendering |
-| **Adobe Suite** | `C:\Program Files\Adobe\Photoshop 2026\` | Devastating (Creative Production Data) | 100% Mock String Rendering |
+| **Model B1 (Chat Leak)** | `C:\Users\Target\AppData\Roaming\Telegram Desktop\tdata\` | Severe (Privacy Panic) | 100% Mock String Rendering |
+| **Model B2 (Steam Client)** | `C:\Program Files (x86)\Steam\steamapps\` | Catastrophic (Loss of Game Library) | 100% Mock String Rendering |
+| **Model B2 (Epic Games)** | `C:\Program Files\Epic Games\Launcher\` | Severe (Unreal Engine Assets) | 100% Mock String Rendering |
+| **Model B2 (Riot Client)** | `C:\Riot Games\Metadata\` | Critical (Ranked Competitive Status) | 100% Mock String Rendering |
+| **Model B2 (Adobe Suite)** | `C:\Program Files\Adobe\Photoshop 2026\` | Devastating (Creative Production Data) | 100% Mock String Rendering |
+| **Variant C (Academic Engine)**| `C:\School\Compliance\Audits\Faculty_Registry.db` | High (Institutional Authority Lockdown) | 100% Mock String Rendering |
 | **Windows Kernel** | `C:\Windows\System32\ntoskrnl.exe` | Absolute System Failure | Pure ANSI Terminal Theater |
 
 </details>
@@ -78,6 +83,7 @@ The underlying codebase of Project Omega utilizes raw Python capabilities withou
 *   **ANSI Escape Styling Engines:** Leverages raw ANSI escape sequences for terminal manipulation, controlling foreground/background color palettes, cursor positioning, and dynamic text redrawing to create fluid, retro-futuristic hacker interfaces.
 *   **Native `winsound` Motherboard Frequency Modulation:** Integrates directly with the Windows API via the standard `winsound` library, driving custom frequencies (Hz) and millisecond durations to emit authentic BIOS error beeps, warning klaxons, and tactical alert pulses.
 *   **String Sanitization Pipeline:** Implements robust input sanitization handlers that normalize user keystrokes in real-time, ensuring continuous case-insensitivity processing and preventing execution crashes during rapid, panic-induced keyboard slamming.
+*   **Base64 Obfuscation Matrix & Dynamic Path Telemetry:** The new "Safe Versions" bypass Windows Defender False Positives and Microsoft SmartScreen by encoding sensitive system strings and generating runtime directory paths dynamically.
 *   **PyInstaller Stand-Alone Architecture:** Designed with strict packaging constraints in mind, allowing developers to bundle entire prank matrices into a single, highly portable Windows executable file (`.exe`) that runs seamlessly on machines lacking a Python runtime environment.
 
 <details>
@@ -109,7 +115,9 @@ class OmegaTerminalEngine:
         except RuntimeError:
             # Fallback for headless or non-Windows architecture environments
             sys.stdout.write("\a")
-            sys.stdout.flush()
+            sys.stdout.flush() 
+
+
 ```
 
 </details>
